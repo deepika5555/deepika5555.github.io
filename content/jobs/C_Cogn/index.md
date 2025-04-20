@@ -1,18 +1,19 @@
 ---
-date: '2020-01-01'
-title: 'Spring Software Engineer Intern'
-companyHeading: 'Akamai Technologies - Spring intern'
-company: 'Akamai Technologies'
-range: 'January 2020 - July 2020'
+date: '2020-02-15'
+title: 'Technical Intern'
+companyHeading: 'McAfee - Technical intern'
+company: 'McAfee Software(India) Private Limited '
+range: 'February 2020 - August 2020'
 url: 'https://www.akamai.com/'
 ---
 
-- Developed and executed a high-performance real-time processing system utilizing Spark streaming and Hadoop-stored data at Akamai Technologies.
+- Engineered comprehensive C++ unit testing framework for mission-critical software firewall components, implementing advanced mocking techniques, XML-based test configurations, and dependency injection patterns that increased code coverage.
 
-- Leveraged strong skills in data processing, distributed computing, and big data technologies to successfully create and deploy the system.
+- Developed comprehensive test suite for Lambda-based phishing detection service, validating detection algorithms against 1000+ real-world phishing samples and hardening defenses against business email compromise attacks.
 
-- Demonstrated expertise in optimizing data processing pipelines and ensuring efficient real-time data analysis.
+- Accelerated cloud expertise through hands-on development of an AWS scheduler service, mastering key technologies including Lambda, EventBridge, IAM, S3, CloudWatch, and serverless architecture patterns while delivering a production-ready solution for scheduled script execution and report generation.
 
-- Evaluated its performance against an established solution within the company. Contributed to enhancing the overall performance and scalability of the solution, resulting in improved data processing capabilities for Akamai Technologies.
+- Architected and implemented a robust scheduling service on Amazon EKS, leveraging Java springboot to enable precise temporal execution of user-defined scripts against client devices, with automated report generation and secure delivery to S3 buckets.
+
 
 

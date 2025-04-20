@@ -8,7 +8,7 @@ skills:
   - REST APIs
   - Microservices
   - Kafka
-  - Prometheus, Grafana and ELK
+  - Prometheus, Grafana
   - Kubernetes
   - Spark
   - Docker

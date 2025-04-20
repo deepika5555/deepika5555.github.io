@@ -1,11 +1,10 @@
 ---
 date: '2019-01-01'
-title: 'Summer Software Engineer Intern'
-companyHeading: 'Akamai Technologies - Summer Intern'
-company: 'Akamai Technologies'
+title: 'Summer Intern'
+companyHeading: 'Kimberly Clark - Summer Intern'
+company: 'Kimberly Clark'
 range: 'June 2019 — July 2019'
-url: 'https://www.akamai.com/'
+url: 'https://www.kimberly-clark.com/'
 ---
-- Conducted a comprehensive analysis of different data storage systems, including Druid, SingleStore, and an internal Akamai database. 
+- Developed an executive dashboard using ASP.NET that provided manufacturing stakeholders with critical insights into diaper production quality, creating interactive visualizations of defect trends, regional comparisons, and anomaly detection that enabled proactive quality control interventions and reduced waste.
 
-- The work involved stress testing the data stores with high volumes of data to check for ingestion and query performances.

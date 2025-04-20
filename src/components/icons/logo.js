@@ -15,7 +15,7 @@ const IconLogo = () => (
         />
       </g>
     </g>
-    <text x="15" y="60" fill="currentColor" fontSize="30px" fontFamily="Consolas">
+    <text x="15" y="40" fill="currentColor" fontSize="30px" fontFamily="Consolas">
       DH
     </text>
   </svg>

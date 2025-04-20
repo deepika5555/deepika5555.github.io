@@ -19,7 +19,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'linkedin.com/in/deepika-h-672562183',
+      url: 'https://linkedin.com/in/deepika-h-672562183',
     },
     {
       name: 'Instagram',

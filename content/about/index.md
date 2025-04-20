@@ -2,26 +2,27 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Java
+  - C
   - Python
-  - C++
-  - SQL
-  - Spring Boot
-  - Jenkins (CI/CD)
+  - Scala
+  - REST APIs
+  - Microservices
+  - Kafka
+  - Prometheus, Grafana and ELK
   - Kubernetes
-  - JUnit
-  - Spark 
-  - Hadoop Ecosystem
+  - Spark
   - Docker
-  - Azure
+  - AWS
 
 ---
 
-🎓 Master's in CS at [Texas A&M University](https://www.tamu.edu/)
+🎓 B.Tech in CS at [PES University](https://pes.edu/)
 
-🔧 Software Engineer | 2+ years @ Akamai Technologies
+🔧 Senior Staff Engineer | 2+ years @ Palo Alto Networks 
 
-🚀 Passionate about Distributed Systems & BigData Analytics
+🔧 Software Engineer | 2+ years @ Mcafee 
+
+🚀 Passionate about Distributed Systems & Microservices and Cloud
 
 🤝 Collaborator | Lifelong Learner | Problem Solver
 

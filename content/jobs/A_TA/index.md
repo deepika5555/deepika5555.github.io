@@ -1,10 +1,11 @@
 ---
 date: '2022-08-15'
-title: 'Teaching Assistant'
-companyHeading: 'Texas A&M University'
-company: 'Texas A&M University'
+title: 'Staff Engineer'
+companyHeading: 'Palo Alto Networks'
+company: 'Palo Alto Networks'
 range: 'August 2022 - August 2023'
-url: 'https://www.tamu.edu/'
+url: 'https://www.paloaltonetworks.com/'
 ---
 
-- As a Teaching Assistant for ”Distributed Systems” and ”Compiler Design” courses, facilitated office hours to aid students, administered assignments, improved course content and conducted lectures as necessary.
+- Designed and architected plugin auto generation of code for sdwan configurations for Branch Multi VR, PQPPK support for IKE gateways, Private link type configurations. 
+- Worked on PANOS SDWAN. Fixed bugs and customer escalations. 

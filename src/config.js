@@ -19,11 +19,11 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/gsbreddy/',
+      url: 'linkedin.com/in/deepika-h-672562183',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/satyabhamareddy/',
+      url: 'https://www.instagram.com/deepikah5555/',
     },
   ],
 

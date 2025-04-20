@@ -1,7 +1,7 @@
 ---
 date: '2018-04-03'
 title: 'File System'
-github: 'https://github.com/Satyabhama-Reddy/fuse-filesystem'
+github: 'https://github.com/deepika5555/Os-file-system-project'
 external: ''
 tech:
   - FUSE

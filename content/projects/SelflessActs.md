@@ -1,7 +1,7 @@
 ---
 date: '2019-04-03'
 title: 'Selfless Acts'
-github: 'https://github.com/Satyabhama-Reddy/selfless-acts'
+github: 'https://github.com/deepika5555/SelfielessActsApplication'
 external: ''
 tech:
   - Python

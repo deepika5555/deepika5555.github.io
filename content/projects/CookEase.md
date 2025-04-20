@@ -1,7 +1,7 @@
 ---
 date: '2019-12-03'
 title: 'CookEase'
-github: 'https://github.com/Satyabhama-Reddy/cookease'
+github: 'https://github.com/deepika5555/cookease'
 external: ''
 tech:
   - Python
@@ -11,7 +11,7 @@ tech:
   - CSS
 
 company: 'PES University'
-showInProjects: true
+showInProjects: false
 ---
 
 Revolutionized recipe management by implementing dynamic recipe suggestions based on current pantry ingredients. Ingredients are automatically extracted from any grocery bill using OCR. For an efficient, user-friendly experience, innovative techniques such as predictive fetch, multistage download, and local storage were used.

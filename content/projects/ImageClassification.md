@@ -1,7 +1,7 @@
 ---
 date: '2022-12-23'
 title: 'Image Classification'
-github: 'https://github.com/Satyabhama-Reddy/image-classification'
+github: 'https://github.com/deepika5555/image-classification'
 external: ''
 tech:
   - Deep Learning

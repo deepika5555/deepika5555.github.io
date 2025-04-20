@@ -19,7 +19,7 @@ const IconLoader = () => (
       />
     </g>
     <text x="20" y="60" fill="currentColor" fontSize="30px" fontFamily="Consolas">
-      GSR
+      DH
     </text>
   </svg>
 );

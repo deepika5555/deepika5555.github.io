@@ -18,7 +18,7 @@ const IconLoader = () => (
                   L 89, 28 z"
       />
     </g>
-    <text x="20" y="64" fill="currentColor" fontSize="46px" fontFamily="Consolas">
+    <text x="18" y="63" fill="currentColor" fontSize="45px" fontFamily="Consolas">
       DH
     </text>
   </svg>

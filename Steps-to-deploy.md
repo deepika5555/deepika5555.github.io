@@ -1,25 +1,49 @@
-# Steps to push to deployment
 
-  - git clone
+# Clone repository (only needed first time)
+git clone https://github.com/yourusername/portfolio.git
 
-  - cd portfolio
+# Navigate to project directory
+cd portfolio
 
-  - source ~/.nvm/nvm.sh
+# Ensure NVM is available
+source ~/.nvm/nvm.sh
 
-  - nvm install node (version 16)
+# Install and use Node.js 18 (Gatsby requirement)
+nvm install 18
+nvm use 18
 
-  - npm install -g yarn
+# Install global dependencies
+npm install -g yarn
+npm install -g gatsby-cli
 
-  - yarn
+# Clear cache (helps prevent build issues)
+gatsby clean
 
-  - npm install -g gatsby-cli
+# Install project dependencies with legacy peer deps flag
+yarn install --legacy-peer-deps
+# OR if using npm
+# npm install --legacy-peer-deps
 
-  - npm install
+# Increase Node memory limit (prevents segmentation faults)
+export NODE_OPTIONS="--max-old-space-size=8192"
 
-  - git add .
+# Make your changes to the site as needed
 
-  - git commit -am "changes"
+# Add your changes to git
+git add .
+git commit -m "deploying changes"
+git push origin main  # or whatever your default branch is
 
-  - gatsby build
+# Build and deploy
+<!-- gatsby develop -->  use this for local development
+gatsby build
+npm run deploy
 
-  - npm run deploy
+
+Troubleshooting Tips:
+export NODE_TLS_REJECT_UNAUTHORIZED=0
+rm -rf node_modules package-lock.json yarn.lock
+npm cache clean --force
+
+npm rebuild sharp
+npm rebuild

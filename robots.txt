@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://deepika5555.github.io/sitemap-index.xml
+Host: https://deepika5555.github.io

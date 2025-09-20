@@ -35,9 +35,11 @@ git commit -m "deploying changes"
 git push origin main  # or whatever your default branch is
 
 # Build and deploy
-<!-- gatsby develop -->  use this for local development
 gatsby build
 npm run deploy
+
+<!-- gatsby develop -->  use this for local development
+gatsby develop
 
 
 Troubleshooting Tips:
